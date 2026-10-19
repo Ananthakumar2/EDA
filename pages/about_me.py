@@ -1,14 +1,7 @@
-# https://www.youtube.com/watch?v=Sb0A9i6d320
-
-import pandas as pd #pip install pandas openpyxl
-#import plotly.express as px #pip install plotly-express
-import streamlit as st #pip install streamlit
-#import re
-#import requests
-#import time
+import pandas as pd 
+import streamlit as st 
 
 #---ABOUT SECTION---
-    
 #col1,col2 = st.columns([1,2], gap="small",vertical_alignment="center")
 col1, col2 = st.columns([0.2, 0.8], vertical_alignment="center")        
 with col1:
