@@ -1,5 +1,5 @@
 import pandas as pd  
-import openpyxl as px
+import plotly.express as px
 import streamlit as st 
 excel_file_ref=0
 
