@@ -1,8 +1,6 @@
-# https://www.youtube.com/watch?v=Sb0A9i6d320
-
-import pandas as pd #pip install pandas openpyxl
-#import plotly.express as px #pip install plotly-express
-import streamlit as st #pip install streamlit
+import pandas as pd  
+import openpyxl
+import streamlit as st 
 excel_file_ref=0
 
 def file_open_view(df):
